@@ -1,0 +1,14 @@
+
+#card-header h2{
+	font-size: 30px;
+}
+button[type="submit"]{
+  background: #d0ac04;
+  border: 0;
+  padding: 10px 30px;
+  color: #fff;
+  transition: 0.4s;
+  cursor: pointer;
+  position: relative;
+  
+}

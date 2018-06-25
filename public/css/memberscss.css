@@ -1,0 +1,26 @@
+#navbarSupportedContent a{
+	border:1px solid #d0ac04;
+	margin-right:10px;
+	border-radius: 5px;
+	color: #d0ac04;
+	background-color: transparent;
+	
+}
+
+#navbarSupportedContent a:hover {
+     background-color: #d0ac04;
+	color: white !important;
+	border-radius: 5px;
+}
+#search-button{
+	border:1px solid #d0ac04;
+	color: #d0ac04;
+}
+#search-button:hover{
+	 background-color: #d0ac04;
+	color: white !important;
+}
+#vog-text{
+	color: #d0ac04;
+	font-size: 30px;
+}
